@@ -1,8 +1,8 @@
 {
     "name": "hacker-sounds",
-    "publisher": "mattogodoy",
-    "displayName": "Hacker Sounds",
-    "description": "This extension automatically turns you into a very skilled hacker by playing movie-like sounds while you write code.",
+    "publisher": "rawblocky",
+    "displayName": "Steam Hacker Sounds",
+    "description": "Fork of hacker-sounds replaces with steam Hacker Sounds",
     "version": "1.4.3",
     "engines": {
         "vscode": "^1.40.0"
@@ -10,14 +10,12 @@
     "homepage": "https://matto.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mattogodoy/hacker-sounds"
+        "url": "https://github.com/Rawblocky/vsCodeSFX"
     },
     "keywords": [
         "sound",
         "keyboard",
-        "hacker",
-        "fx",
-        "sci-fi"
+        "fx"
     ],
     "icon": "icon.png",
     "license": "MIT",
@@ -67,7 +65,7 @@
         "@types/mocha": "^5.2.7",
         "@types/node": "^12.11.7",
         "@types/vscode": "^1.40.0",
-        "esbuild": "^0.14.23",
+        "esbuild": "^0.14.54",
         "glob": "^7.1.5",
         "lodash": "^4.17.21",
         "mocha": "^6.2.2",
