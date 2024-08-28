@@ -1,3 +1,7 @@
+# About
+This is a fork of the [hacker-sounds](https://github.com/mattogodoy/hacker-sounds) Visual Studio Code extension. This adds sounds from the Steam Deck and Kenney's audio assets.
+# 
+
 # hacker-sounds
 
 [![Visual Studio Marketplace](https://img.shields.io/vscode-marketplace/v/mattogodoy.hacker-sounds.svg)](https://marketplace.visualstudio.com/items?itemName=mattogodoy.hacker-sounds)
